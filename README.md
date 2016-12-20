@@ -1,3 +1,9 @@
+# Grading note
+My figure png's were automatically saved to 'PA1_template_files\figure-html' when I knitted the Rmd doc
+in RStudio, so I have that folder structure here instead of just a figure directory.  The figures do 
+correctly show in the md document when viewed here.
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
